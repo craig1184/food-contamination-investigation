@@ -1,16 +1,10 @@
 [
   {
-    "id": "6a4942825a57679afd97e315",
-    "restaurant_id": "6a4942545a57679afd97e2fb",
     "restaurant_name": "Hyderabad House Charlotte",
     "start_date": "2026-07-04",
     "status": "In Progress",
-    "summary": "Hyderabad House Charlotte (7779 Lyles Ln NW, Concord, NC 28027) — Nawabi Hyderabad House franchise. User reported cockroach on table during dinner on July 3, 2026. Restaurant offered inadequate 10% discount. Same location had an explosion in Dec 2024 injuring 2 people. A Hyderabad House in Gwinnett County, GA scored 47% on health inspection. Full Cabarrus County inspection history needs manual lookup at public.cdpehs.com.",
-    "findings": "1. USER INCIDENT (2026-07-03): Cockroach sighted on table corner during dinner. Restaurant offered only 10% discount — inadequate response to a pest contamination event.\n2. EXPLOSION/FIRE (2024-12-23): Commercial explosion at the Concord location injured 2 people. Concord Fire Department responded. This raises questions about kitchen safety infrastructure and potential pest control chemical issues.\n3. CHAIN-WIDE PATTERN: A Hyderabad House location in Gwinnett County, GA scored 47% on health inspection — one of the lowest scores possible. This suggests potential systemic issues across the Nawabi Hyderabad House franchise.\n4. YELP RATING: 3.5 stars from 32 reviews — below average for the area.\n5. CABARRUS COUNTY INSPECTION RECORDS: The NC state database (public.cdpehs.com, Cabarrus County code 13) should contain Hyderabad House's full inspection history. The database was not searchable via automated tools in this session — manual lookup recommended.",
-    "risk_assessment": "HIGH RISK — Multiple red flags: (1) Direct cockroach sighting by user, (2) prior explosion at same location suggesting infrastructure issues, (3) chain-wide pattern with GA location scoring 47%, (4) inadequate restaurant response (10% discount vs. comping meal). Pattern is consistent with systemic pest management failures seen at other Indian restaurants in the Greater Charlotte area.",
-    "recommendations": "1. File a complaint with Cabarrus Health Alliance (cabarrushealth.org) about the cockroach sighting.\n2. Search the NC public health inspection database at public.cdpehs.com (County: Cabarrus) for 'Hyderabad' to get full inspection history.\n3. Check if the restaurant has had pest control treatment since the fire/explosion in Dec 2024.\n4. Consider reporting to NC Department of Agriculture & Consumer Services if food safety concerns persist.\n5. Monitor the Nawabi Hyderabad House Ballantyne location for similar issues given the chain-wide pattern.\n6. Check Yelp/Google reviews for additional pest complaints that may not have been reported to health authorities.",
-    "related_incidents": "5 incident records linked — 1 user pest sighting, 1 explosion/fire, 3 related Indian restaurant cockroach incidents in Charlotte area (Curry N Cake, Masti/Pudina x2)",
-    "sources_consulted": "NC Public Health Inspection Database (public.cdpehs.com), Charlotte Observer, Patch.com, Charlotte Alerts News, WSOC TV, WBTW News, WCNC, Concord Fire Department Facebook, Yelp, Instagram, Facebook, Hyderabad House website (hhcltnc.com)",
-    "notes": "Investigation triggered by user complaint. Ongoing — need to retrieve Cabarrus County inspection scores and check for additional reviews/complaints."
+    "summary": "Cockroach sighting Jul 2026 + explosion Dec 2024 + chain-wide pattern (GA scored 47%).",
+    "risk_assessment": "HIGH RISK - multiple red flags: direct cockroach sighting, prior explosion, chain-wide pattern, inadequate restaurant response.",
+    "recommendations": "1. File complaint with Cabarrus Health Alliance. 2. Search NC database for full history. 3. Check pest control since Dec 2024. 4. Report to NC Dept of Agriculture if issues persist. 5. Monitor Ballantyne location. 6. Check Yelp/Google for additional complaints."
   }
 ]
