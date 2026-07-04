@@ -1,72 +1,46 @@
 [
   {
-    "id": "6a4942665a57679afd97e304",
-    "restaurant_id": "6a4942545a57679afd97e2fb",
     "restaurant_name": "Hyderabad House Charlotte",
     "incident_date": "2026-07-03",
-    "incident_type": "Pest Sighting",
-    "description": "User Fred reported a cockroach lurking on the corner of the table during dinner. Restaurant offered a 10% discount instead of comping the meal. This is a direct consumer complaint.",
+    "type": "Pest Sighting",
+    "description": "Cockroach on table during dinner. Restaurant offered 10% discount.",
     "severity": "High",
-    "reported_by": "Fred (user)",
-    "source": "Direct user report",
-    "source_url": "",
-    "verified": true,
-    "notes": "Primary incident that triggered this investigation."
+    "verified": true
   },
   {
-    "id": "6a4942665a57679afd97e305",
-    "restaurant_id": "6a4942545a57679afd97e2fb",
     "restaurant_name": "Hyderabad House Charlotte",
     "incident_date": "2024-12-23",
-    "incident_type": "Explosion",
-    "description": "Commercial explosion at Nawabi Hyderabad House in Concord at 8:31 PM. Two people injured. Concord Fire Department responded. Described as 'some type of explosion' by Engine Co. 5.",
+    "type": "Explosion",
+    "description": "Commercial explosion. 2 injured. Concord FD responded.",
     "severity": "Critical",
-    "reported_by": "Concord Fire Department",
-    "source": "WBTW News / WCNC / Concord Fire Dept Facebook",
-    "source_url": "https://www.wbtw.com/news/state-regional-news/explosion-rocks-north-carolina-indian-restaurant-2-injured/",
     "verified": true,
-    "notes": "Explosion caused 2 injuries. May indicate gas safety or kitchen infrastructure issues."
+    "source_url": "https://www.wbtw.com/news/state-regional-news/explosion-rocks-north-carolina-indian-restaurant-2-injured/"
   },
   {
-    "id": "6a4942665a57679afd97e306",
-    "restaurant_id": "6a4942545a57679afd97e2fd",
-    "restaurant_name": "Curry N Cake (Soma Bistro)",
+    "restaurant_name": "Curry N Cake",
     "incident_date": "2025-02-11",
-    "incident_type": "Closure",
-    "description": "Mecklenburg County Health Department shut down Curry N Cake after finding 'large roach presence'. Roaches crawling on pans, in microwave, on lights and walls. Scored 71 (C grade). Permit suspended.",
+    "type": "Closure",
+    "description": "Shut down by health dept. Large roach presence on pans, microwave, walls.",
     "severity": "Critical",
-    "reported_by": "Mecklenburg County Health Department",
-    "source": "Charlotte Observer / WSOC TV / Charlotte Alerts",
-    "source_url": "https://www.wsoctv.com/news/local/health-department-suspends-permit-charlotte-restaurant-due-roaches/ZYOC3JP5AFDWXMO5OIVKCQQWPE/",
     "verified": true,
-    "notes": "Restaurant was shut down. Manager acknowledged the issue."
+    "source_url": "https://www.wsoctv.com/news/local/health-department-suspends-permit-charlotte-restaurant-due-roaches/ZYOC3JP5AFDWXMO5OIVKCQQWPE/"
   },
   {
-    "id": "6a4942665a57679afd97e307",
-    "restaurant_id": "6a4942545a57679afd97e2fe",
-    "restaurant_name": "Masti Indian Restaurant and Bar (formerly Pudina)",
+    "restaurant_name": "Masti/Pudina",
     "incident_date": "2018-11-21",
-    "incident_type": "Health Violation",
-    "description": "As Pudina: Scored 74.5 (C grade) with 22 violations. Dead cockroaches behind dishwasher, cockroach droppings throughout kitchen walls, fruit flies in bag of onions, cigarettes above food prep area, food build-up in coolers and microwave.",
+    "type": "Health Violation",
+    "description": "22 violations. Dead cockroaches, droppings, fruit flies, cigarettes in food prep area.",
     "severity": "Critical",
-    "reported_by": "Mecklenburg County Health Department",
-    "source": "Patch / NC Public Health Inspection Report",
-    "source_url": "https://patch.com/north-carolina/charlotte/22-violations-found-eatery-including-cockroach-droppings",
     "verified": true,
-    "notes": "One of the worst inspection scores for an Indian restaurant in Charlotte history."
+    "source_url": "https://patch.com/north-carolina/charlotte/22-violations-found-eatery-including-cockroach-droppings"
   },
   {
-    "id": "6a4942665a57679afd97e308",
-    "restaurant_id": "6a4942545a57679afd97e2fe",
-    "restaurant_name": "Masti Indian Restaurant and Bar (formerly Pudina)",
+    "restaurant_name": "Masti/Pudina",
     "incident_date": "2024-11-14",
-    "incident_type": "Health Violation",
-    "description": "As Masti: Scored 86 (B grade). Inspectors found 'multiple cockroaches of various sizes'. Roach found in rice. Restaurant was to be suspended.",
+    "type": "Health Violation",
+    "description": "Cockroaches of various sizes. Roach in rice. Restaurant to be suspended.",
     "severity": "High",
-    "reported_by": "Mecklenburg County Health Department",
-    "source": "Charlotte Observer / Charlotte Alerts News",
-    "source_url": "https://www.charlottealertsnews.com/news/roach-found-in-rice-at-masti-indian-restaurant-and-bar-restaurant-to-be-suspended/",
     "verified": true,
-    "notes": "Repeat offender — cockroach issues spanning 6+ years under different names (Pudina -> Masti). Same address."
+    "source_url": "https://www.charlottealertsnews.com/news/roach-found-in-rice-at-masti-indian-restaurant-and-bar-restaurant-to-be-suspended/"
   }
 ]
